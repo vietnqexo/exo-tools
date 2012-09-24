@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/7793/tools/trunk/deploy/product-patches/as/tomcat/conf/Catalina/localhost
+END
+portal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/7793/tools/trunk/deploy/product-patches/as/tomcat/conf/Catalina/localhost/portal.xml
+END
+eXoResources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/7793/tools/trunk/deploy/product-patches/as/tomcat/conf/Catalina/localhost/eXoResources.xml
+END

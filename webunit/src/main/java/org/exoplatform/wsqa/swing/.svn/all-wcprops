@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/4124/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing
+END
+AddRowDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projects/!svn/ver/3653/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/AddRowDialog.java
+END
+WebUnitDataViewPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/3653/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WebUnitDataViewPlugin.java
+END
+WebunitPlayerPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WebunitPlayerPopupMenu.java
+END
+DebugConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/3163/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/DebugConnection.java
+END
+HttpClientLogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/3644/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/HttpClientLogListener.java
+END
+WebUnitCaptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WebUnitCaptor.java
+END
+WebUnitPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/3679/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WebUnitPopupMenu.java
+END
+HttpClientLogViewPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/4124/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/HttpClientLogViewPlugin.java
+END
+WSQAPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/3941/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WSQAPlugin.java
+END
+ByteComparatorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/ByteComparatorPanel.java
+END
+WebunitJavaScriptGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WebunitJavaScriptGenerator.java
+END
+HttpClientResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/4124/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/HttpClientResultPanel.java
+END
+WebunitRecorderViewPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/3941/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/swing/WebunitRecorderViewPlugin.java
+END

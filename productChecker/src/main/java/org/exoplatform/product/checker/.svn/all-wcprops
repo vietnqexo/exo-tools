@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/projects/!svn/ver/22254/tools/trunk/productChecker/src/main/java/org/exoplatform/product/checker
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/22254/tools/trunk/productChecker/src/main/java/org/exoplatform/product/checker/Product.java
+END
+ProductChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/22254/tools/trunk/productChecker/src/main/java/org/exoplatform/product/checker/ProductChecker.java
+END
+ProductExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/projects/!svn/ver/22254/tools/trunk/productChecker/src/main/java/org/exoplatform/product/checker/ProductExtractor.java
+END

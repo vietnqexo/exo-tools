@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/4047/tools/trunk/webunit/src/main/java/org/exoplatform/swing/explorer
+END
+FileExplorerPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/3354/tools/trunk/webunit/src/main/java/org/exoplatform/swing/explorer/FileExplorerPlugin.java
+END
+ListOpenedFileViewPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/3941/tools/trunk/webunit/src/main/java/org/exoplatform/swing/explorer/ListOpenedFileViewPlugin.java
+END
+OpenedFileViewPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/3645/tools/trunk/webunit/src/main/java/org/exoplatform/swing/explorer/OpenedFileViewPlugin.java
+END
+ExplorerViewPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/4047/tools/trunk/webunit/src/main/java/org/exoplatform/swing/explorer/ExplorerViewPlugin.java
+END

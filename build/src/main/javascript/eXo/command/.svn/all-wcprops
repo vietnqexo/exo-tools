@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/73303/tools/trunk/build/src/main/javascript/eXo/command
+END
+maven.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/73303/tools/trunk/build/src/main/javascript/eXo/command/maven.js
+END
+svn.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/12189/tools/trunk/build/src/main/javascript/eXo/command/svn.js
+END
+exobuild.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/42151/tools/trunk/build/src/main/javascript/eXo/command/exobuild.js
+END
+gtnproject.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/39385/tools/trunk/build/src/main/javascript/eXo/command/gtnproject.js
+END
+exoproject.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/39385/tools/trunk/build/src/main/javascript/eXo/command/exoproject.js
+END
+exosvn.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/12189/tools/trunk/build/src/main/javascript/eXo/command/exosvn.js
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/80688/tools/trunk/build/src/main/resources/linux
+END
+exobuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/13/tools/trunk/build/src/main/resources/linux/exobuild.sh
+END
+js.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/25516/tools/trunk/build/src/main/resources/linux/js.sh
+END
+exoscript.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/27/tools/trunk/build/src/main/resources/linux/exoscript.sh
+END
+exoct.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/80688/tools/trunk/build/src/main/resources/linux/exoct.sh
+END
+exosvn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/13/tools/trunk/build/src/main/resources/linux/exosvn.sh
+END
+exoenv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/41437/tools/trunk/build/src/main/resources/linux/exoenv.sh
+END
+exoalias.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/73535/tools/trunk/build/src/main/resources/linux/exoalias.sh
+END

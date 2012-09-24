@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/29348/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet
+END
+MockServletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/2/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockServletContext.java
+END
+MockFilterConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/28342/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockFilterConfig.java
+END
+MockServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/29348/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockServletRequest.java
+END
+MockPrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/2/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockPrincipal.java
+END
+EmptyResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/2/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/EmptyResponse.java
+END
+MockHttpServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/17689/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockHttpServletResponse.java
+END
+MockHttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/projects/!svn/ver/2/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockHttpSession.java
+END
+MockServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projects/!svn/ver/2/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/servlet/MockServletResponse.java
+END

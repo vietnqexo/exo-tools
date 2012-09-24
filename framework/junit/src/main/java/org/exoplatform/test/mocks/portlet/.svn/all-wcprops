@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/9236/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet
+END
+MockActionRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockActionRequest.java
+END
+MockPortletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/9236/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockPortletResponse.java
+END
+MockRenderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockRenderRequest.java
+END
+MockPortletPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockPortletPreferences.java
+END
+MockActionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockActionResponse.java
+END
+MockPortletSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockPortletSession.java
+END
+MockPortletContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/9236/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockPortletContext.java
+END
+MockRenderResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockRenderResponse.java
+END
+MockPortletConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projects/!svn/ver/9236/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockPortletConfig.java
+END
+MockPortletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/8323/tools/trunk/framework/junit/src/main/java/org/exoplatform/test/mocks/portlet/MockPortletRequest.java
+END

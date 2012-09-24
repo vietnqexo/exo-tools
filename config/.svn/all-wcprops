@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/projects/!svn/ver/80219/tools/trunk/config
+END
+vimrc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projects/!svn/ver/13/tools/trunk/config/vimrc
+END
+coverage.es
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/9445/tools/trunk/config/coverage.es
+END
+exo-checkstyle-suppressions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/20841/tools/trunk/config/exo-checkstyle-suppressions.xml
+END
+modules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/8664/tools/trunk/config/modules.xml
+END
+update.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/18242/tools/trunk/config/update.bat
+END
+exo-checkstyle-checker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/33202/tools/trunk/config/exo-checkstyle-checker.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projects/!svn/ver/43842/tools/trunk/config/pom.xml
+END
+update.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/!svn/ver/18242/tools/trunk/config/update.sh
+END

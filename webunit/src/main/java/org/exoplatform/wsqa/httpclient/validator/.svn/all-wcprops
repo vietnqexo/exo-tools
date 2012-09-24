@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/httpclient/validator
+END
+ResponseBodyValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/httpclient/validator/ResponseBodyValidator.java
+END
+Validator.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/httpclient/validator/Validator.java
+END
+RequestHeaderValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/4109/tools/trunk/webunit/src/main/java/org/exoplatform/wsqa/httpclient/validator/RequestHeaderValidator.java
+END
